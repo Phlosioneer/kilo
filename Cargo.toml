@@ -1,0 +1,11 @@
+[package]
+name = "rusty_kilo"
+version = "0.1.0"
+authors = ["Phlosioneer <mattmdrr2@gmail.com>"]
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+libc = "*"
+byteorder = "*"

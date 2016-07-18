@@ -1,1 +1,3 @@
-kilo
+bin
+target
+Cargo.lock
