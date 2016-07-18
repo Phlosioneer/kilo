@@ -24,3 +24,10 @@ style CLI.
 
 Kilo was written by Salvatore Sanfilippo aka antirez and is released
 under the BSD 2 clause license.
+
+
+---------------
+
+This fork of kilo is intended to port the entire codebase over to rust, then turn it into an IDE specifically for rust development.
+
+During the transition, kilo will be replaced by rust code function-by-function.
